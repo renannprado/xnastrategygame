@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="StrategyGameLibrary.GenericBuildingTestcs">
+    <RequiredResourceList>
+      <Item>
+        <Key>Money</Key>
+        <Value>10</Value>
+      </Item>
+      <Item>
+        <Key>Sand</Key>
+        <Value>30</Value>
+      </Item>
+      <Item>
+        <Key>Wood</Key>
+        <Value>50</Value>
+      </Item>
+    </RequiredResourceList>
+    <ConsumedResourcesPerTurn>
+      <Item>
+        <Key>Money</Key>
+        <Value>10</Value>
+      </Item>
+      <Item>
+        <Key>Food</Key>
+        <Value>23</Value>
+      </Item>
+    </ConsumedResourcesPerTurn>
+    <RootAssetPath>Teste\</RootAssetPath>
+    <AssetID>2</AssetID>
+  </Asset>
+</XnaContent>
